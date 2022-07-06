@@ -1,4 +1,4 @@
-# Função para criação de Log para scripts de automação python
+# Função Log Python
 O projeto foi desenvolvido para suprir a demanda da criação de "logs de execução" de scripts python.
 
 Basta clonar o repositório na pasta do projeto, importar o módulo e chamar as funções.
